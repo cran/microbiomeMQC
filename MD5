@@ -1,0 +1,14 @@
+28436272d77684f75c7ef3fd8344a5be *DESCRIPTION
+449a66ae54baf59612b46f6a49995264 *NAMESPACE
+69587b91eab27a0c18f1e157ace2de26 *R/microbiomeMQC.R
+8081658334daca638d6e5c24ed25f5cf *R/testdata_documentation.R
+458f3e6a2b80ac7c4216496d1da28ed6 *build/vignette.rds
+5499314f0abd267c74ae309ca0f293f3 *data/MQC_testdata.rda
+d6b1663f3ed27e4fe4cd6d8a482a27ea *inst/doc/using_microbiomeMQC.R
+f9caf4693cddfa9b9d46358d04a56046 *inst/doc/using_microbiomeMQC.Rmd
+c6cc64078abfee98cd8da1e9e375a7d8 *inst/doc/using_microbiomeMQC.html
+5ab5551044dbc28180a4820a016bcea3 *inst/extdata/MQC_testdata.csv
+cc95577a0e926705847dcfa46ead7218 *man/MQC_testdata.Rd
+a9c79cc14c4dcd1091b1fc2fdfccb0db *man/microbiomeMQC.Rd
+4056cbeb57417313a2ff55738131755e *tests/testthat/test-microbiomeMQC.R
+f9caf4693cddfa9b9d46358d04a56046 *vignettes/using_microbiomeMQC.Rmd
